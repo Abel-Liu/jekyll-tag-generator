@@ -22,4 +22,4 @@ layout: default
 
 # Mark
 
-You can find a sample at [my blog](www.abelliu.com).
+You can find a sample at [my blog](http://www.abelliu.com).
