@@ -2,7 +2,7 @@
 
 Generate page for every tag in your posts.
 
-# Useage
+# Usage
 
 * Put `generate_tag_page.rb` into your `_plugins` directory.
 * Put `tagpage.html` into your `_layouts` directory.
